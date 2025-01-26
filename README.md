@@ -1,5 +1,5 @@
 👋 Hi, I’m @Aman </br>
-  A passionate developer exploring the intersection of web development and machine learning </br>
+   A passionate developer exploring the intersection of web development and machine learning </br>
 🌱Currently learning React </br>
 💡Open to: Collaboration on open-source projects and freelance opportunities.</br>
 

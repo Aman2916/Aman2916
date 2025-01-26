@@ -9,4 +9,4 @@ Aman2916/Aman2916 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 📫 Connect with Me </br>
-💼 LinkedIn: <a href="www.linkedin.com/in/aman-malviya29">Aman Malviya </br>
+💼 LinkedIn: @<a href="www.linkedin.com/in/aman-malviya29">Aman Malviya </br>
